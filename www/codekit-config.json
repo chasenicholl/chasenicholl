@@ -13,15 +13,6 @@
       "outputAbbreviatedPath" : "\/assets\/js\/global\/comet.min.js",
       "fileType" : 64
     },
-    "\/assets\/css\/global\/all.css" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/css\/global\/all.css",
-      "outputAbbreviatedPath" : "No Output Path",
-      "fileType" : 16
-    },
     "\/assets\/css\/global\/client.css" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
@@ -30,18 +21,6 @@
       "inputAbbreviatedPath" : "\/assets\/css\/global\/client.css",
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
-    },
-    "\/assets\/css\/global\/build\/client.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/css\/global\/build\/client.scss",
-      "outputStyle" : 3,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/assets\/css\/global\/client.css",
-      "fileType" : 4,
-      "debugStyle" : 0
     },
     "\/assets\/css\/global\/build\/pages.scss" : {
       "ignoreWasSetByUser" : 0,
@@ -55,6 +34,27 @@
       "fileType" : 4,
       "debugStyle" : 0
     },
+    "\/assets\/css\/global\/build\/client.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/css\/global\/build\/client.scss",
+      "outputStyle" : 3,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/assets\/css\/global\/client.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
+    "\/assets\/css\/global\/all.css" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/css\/global\/all.css",
+      "outputAbbreviatedPath" : "No Output Path",
+      "fileType" : 16
+    },
     "\/assets\/js\/global\/jquery-2.1.1.min.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
@@ -66,37 +66,26 @@
       "outputAbbreviatedPath" : "\/assets\/js\/jquery-2.1.1.min.min.js",
       "fileType" : 64
     },
-    "\/assets\/js\/global\/home.min.js" : {
+    "\/assets\/js\/global\/build\/client.js" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
+      "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/js\/global\/home.min.js",
+      "inputAbbreviatedPath" : "\/assets\/js\/global\/build\/client.js",
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/assets\/js\/home.min.min.js",
+      "outputAbbreviatedPath" : "\/assets\/js\/global\/client.min.js",
       "fileType" : 64
     },
-    "\/assets\/js\/global\/client.min.js" : {
+    "\/assets\/js\/global\/build\/run.js" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
+      "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/js\/global\/client.min.js",
+      "inputAbbreviatedPath" : "\/assets\/js\/global\/build\/run.js",
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/assets\/js\/client.min.min.js",
-      "fileType" : 64
-    },
-    "\/assets\/js\/global\/pages.home.min.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 1,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/js\/global\/pages.home.min.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/assets\/js\/pages.home.min.min.js",
+      "outputAbbreviatedPath" : "\/assets\/js\/global\/run.min.js",
       "fileType" : 64
     },
     "\/assets\/js\/global\/build\/home.js" : {
@@ -110,15 +99,26 @@
       "outputAbbreviatedPath" : "\/assets\/js\/global\/home.min.js",
       "fileType" : 64
     },
-    "\/assets\/js\/global\/build\/run.js" : {
+    "\/assets\/images\/global\/off_white_bg.jpg" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/js\/global\/build\/run.js",
+      "inputAbbreviatedPath" : "\/assets\/images\/global\/off_white_bg.jpg",
+      "processed" : 0,
+      "outputAbbreviatedPath" : "\/assets\/images\/global\/off_white_bg.jpg",
+      "initialSize" : 10280,
+      "fileType" : 4096
+    },
+    "\/assets\/js\/global\/home.min.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/js\/global\/home.min.js",
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/assets\/js\/global\/run.min.js",
+      "outputAbbreviatedPath" : "\/assets\/js\/home.min.min.js",
       "fileType" : 64
     },
     "\/assets\/js\/global\/comet.min.js" : {
@@ -143,37 +143,37 @@
       "outputAbbreviatedPath" : "\/assets\/js\/global\/pages.home.min.js",
       "fileType" : 64
     },
-    "\/assets\/images\/global\/off_white_bg.jpg" : {
+    "\/assets\/images\/global\/mb_logo_black_hi.png" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 0,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/images\/global\/off_white_bg.jpg",
+      "inputAbbreviatedPath" : "\/assets\/images\/global\/mb_logo_black_hi.png",
       "processed" : 0,
-      "outputAbbreviatedPath" : "\/assets\/images\/global\/off_white_bg.jpg",
-      "initialSize" : 10280,
-      "fileType" : 4096
+      "outputAbbreviatedPath" : "\/assets\/images\/global\/mb_logo_black_hi.png",
+      "initialSize" : 2965,
+      "fileType" : 8192
     },
-    "\/assets\/js\/global\/build\/client.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/js\/global\/build\/client.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/assets\/js\/global\/client.min.js",
-      "fileType" : 64
-    },
-    "\/assets\/js\/global\/run.min.js" : {
+    "\/assets\/js\/global\/pages.home.min.js" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/js\/global\/run.min.js",
+      "inputAbbreviatedPath" : "\/assets\/js\/global\/pages.home.min.js",
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 1,
-      "outputAbbreviatedPath" : "\/assets\/js\/run.min.min.js",
+      "outputAbbreviatedPath" : "\/assets\/js\/pages.home.min.min.js",
+      "fileType" : 64
+    },
+    "\/assets\/js\/global\/client.min.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/assets\/js\/global\/client.min.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/assets\/js\/client.min.min.js",
       "fileType" : 64
     },
     "\/assets\/css\/global\/build\/all.scss" : {
@@ -197,16 +197,16 @@
       "outputAbbreviatedPath" : "No Output Path",
       "fileType" : 16
     },
-    "\/assets\/images\/global\/mb_logo_black_hi.png" : {
+    "\/assets\/js\/global\/run.min.js" : {
       "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
+      "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/assets\/images\/global\/mb_logo_black_hi.png",
-      "processed" : 0,
-      "outputAbbreviatedPath" : "\/assets\/images\/global\/mb_logo_black_hi.png",
-      "initialSize" : 2965,
-      "fileType" : 8192
+      "inputAbbreviatedPath" : "\/assets\/js\/global\/run.min.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 1,
+      "outputAbbreviatedPath" : "\/assets\/js\/run.min.min.js",
+      "fileType" : 64
     }
   },
   "manualImportLinks" : [

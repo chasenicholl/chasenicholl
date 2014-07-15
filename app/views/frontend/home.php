@@ -1,6 +1,12 @@
 <header>
-    <div class="name">CHASE NICHOLL dot com</div>
+    <div class="name">CHASE NICHOLL<span style="color:#FF0000;">dot</span>com</div>
     <div class="title">Full stack application engineer</div>
+    <div class="navigation_box">
+        <div class="nav_item">Skills</div>
+        <div class="nav_item">Portfolio</div>
+        <div class="nav_item">About Me</div>
+        <div class="nav_item">Download Resume</div>
+    </div>
 </header>
 <div class="skill_box" id="skill_box">
     <span>PHP</span>
@@ -49,6 +55,6 @@ Comet.isReady( function() {
     home.randomize();
     setInterval( function() {
         home.randomize();
-    }, 1000);
+    }, 3000);
 } );
 </script>
