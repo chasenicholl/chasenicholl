@@ -1,0 +1,36 @@
+header {
+    position: relative;
+    top: 0px;
+    left: 0px;
+    width: 100%;
+    min-height: 50px;
+    background-color: #222;
+    box-sizing: border-box;
+    -webkit-box-sizing: border-box;
+    -moz-box-sizing: border-box;
+}
+.name {
+    font-family: "sf_bold";
+    font-weight: bold;
+    font-size: 26px;
+    color: #FFF;
+    padding: 12px 20px 12px 20px;
+    float: left;
+}
+.title {
+    font-family: "sf_light";
+    font-weight: 100;
+    font-size: 16px;
+    color: #FFF;
+    padding: 17px 20px 17px 20px;
+    float: left;
+    border-left: 1px dashed #FFF;
+}
+.skill_box {
+    width: 100%;
+    float: left;
+    text-align: justify;
+    font-family: "sf_bold";
+    color: #DDD;
+    display: block;
+}

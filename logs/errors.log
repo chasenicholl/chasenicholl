@@ -1,0 +1,626 @@
+[29-Jun-2014 23:29:51 America/New_York] PHP Notice:  Undefined variable: is_connected in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/views/backend/client.php on line 88
+[29-Jun-2014 23:29:57 America/New_York] PHP Notice:  Undefined variable: is_connected in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/views/backend/client.php on line 88
+[29-Jun-2014 23:43:27 America/New_York] PHP Notice:  Undefined variable: is_connected in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/views/backend/client.php on line 88
+[29-Jun-2014 23:47:48 America/New_York] PHP Notice:  Undefined variable: is_connected in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/views/backend/client.php on line 88
+[29-Jun-2014 23:47:50 America/New_York] PHP Notice:  Undefined variable: is_connected in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/views/backend/client.php on line 88
+[29-Jun-2014 23:48:12 America/New_York] PHP Notice:  Undefined variable: is_connected in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/views/backend/client.php on line 88
+[29-Jun-2014 23:48:14 America/New_York] PHP Notice:  Undefined variable: is_connected in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/views/backend/client.php on line 88
+[29-Jun-2014 23:48:40 America/New_York] PHP Notice:  Undefined variable: is_connected in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/views/backend/client.php on line 88
+[29-Jun-2014 23:49:59 America/New_York] PHP Notice:  Undefined variable: is_connected in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/views/backend/client.php on line 18
+[29-Jun-2014 23:50:13 America/New_York] PHP Notice:  Undefined variable: is_connected in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/views/backend/client.php on line 18
+[29-Jun-2014 23:50:54 America/New_York] PHP Notice:  Undefined variable: is_connected in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/views/backend/client.php on line 18
+[29-Jun-2014 23:51:16 America/New_York] PHP Notice:  Undefined variable: is_connected in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/views/backend/client.php on line 18
+[29-Jun-2014 23:51:32 America/New_York] PHP Notice:  Undefined variable: is_connected in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/views/backend/client.php on line 18
+[29-Jun-2014 23:51:59 America/New_York] PHP Notice:  Undefined variable: is_connected in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/views/backend/client.php on line 18
+[29-Jun-2014 23:52:33 America/New_York] PHP Notice:  Undefined variable: is_connected in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/views/backend/client.php on line 20
+[29-Jun-2014 23:52:53 America/New_York] PHP Notice:  Undefined variable: is_connected in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/views/backend/client.php on line 20
+[29-Jun-2014 23:53:06 America/New_York] PHP Notice:  Undefined variable: is_connected in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/views/backend/client.php on line 20
+[29-Jun-2014 23:53:39 America/New_York] PHP Notice:  Undefined variable: is_connected in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/views/backend/client.php on line 25
+[29-Jun-2014 23:54:15 America/New_York] PHP Notice:  Undefined variable: is_connected in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/views/backend/client.php on line 25
+[29-Jun-2014 23:54:54 America/New_York] PHP Notice:  Undefined variable: is_connected in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/views/backend/client.php on line 25
+[29-Jun-2014 23:57:36 America/New_York] PHP Notice:  Undefined variable: is_connected in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/views/backend/client.php on line 25
+[29-Jun-2014 23:58:03 America/New_York] PHP Notice:  Undefined variable: is_connected in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/views/backend/client.php on line 25
+[29-Jun-2014 23:58:40 America/New_York] PHP Notice:  Undefined variable: is_connected in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/views/backend/client.php on line 25
+[29-Jun-2014 23:59:19 America/New_York] PHP Notice:  Undefined variable: is_connected in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/views/backend/client.php on line 25
+[29-Jun-2014 23:59:51 America/New_York] PHP Notice:  Undefined variable: is_connected in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/views/backend/client.php on line 25
+[30-Jun-2014 00:00:04 America/New_York] PHP Notice:  Undefined variable: is_connected in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/views/backend/client.php on line 25
+[30-Jun-2014 00:00:15 America/New_York] PHP Notice:  Undefined variable: is_connected in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/views/backend/client.php on line 25
+[30-Jun-2014 00:02:01 America/New_York] PHP Notice:  Undefined variable: is_connected in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/views/backend/client.php on line 25
+[30-Jun-2014 09:46:16 America/New_York] PHP Notice:  Undefined variable: is_connected in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/views/backend/client.php on line 25
+[30-Jun-2014 11:17:09 America/New_York] PHP Notice:  Undefined variable: is_connected in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/views/backend/client.php on line 25
+[30-Jun-2014 11:17:13 America/New_York] PHP Notice:  Undefined variable: is_connected in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/views/backend/client.php on line 25
+[30-Jun-2014 11:17:15 America/New_York] PHP Notice:  Undefined variable: is_connected in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/views/backend/client.php on line 25
+[30-Jun-2014 11:33:48 America/New_York] PHP Notice:  Undefined variable: is_connected in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/views/backend/client.php on line 25
+[30-Jun-2014 11:33:50 America/New_York] PHP Notice:  Undefined variable: is_connected in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/views/backend/client.php on line 25
+[30-Jun-2014 11:33:53 America/New_York] PHP Notice:  Undefined variable: is_connected in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/views/backend/client.php on line 25
+[30-Jun-2014 11:33:56 America/New_York] PHP Notice:  Undefined variable: is_connected in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/views/backend/client.php on line 25
+[30-Jun-2014 11:34:07 America/New_York] PHP Notice:  Undefined variable: is_connected in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/views/backend/client.php on line 25
+[30-Jun-2014 11:34:38 America/New_York] PHP Notice:  Undefined variable: is_connected in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/views/backend/client.php on line 25
+[30-Jun-2014 11:34:44 America/New_York] PHP Notice:  Undefined variable: is_connected in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/views/backend/client.php on line 25
+[30-Jun-2014 11:35:54 America/New_York] PHP Notice:  Undefined variable: is_connected in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/views/backend/client.php on line 25
+[30-Jun-2014 11:36:08 America/New_York] is_running_check
+[30-Jun-2014 11:36:08 America/New_York] PHP Notice:  Undefined variable: is_connected in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/views/backend/client.php on line 25
+[30-Jun-2014 11:36:28 America/New_York] is_running_check
+[30-Jun-2014 11:36:28 America/New_York] PHP Notice:  Undefined variable: is_connected in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/views/backend/client.php on line 25
+[30-Jun-2014 11:36:30 America/New_York] is_running_check
+[30-Jun-2014 11:36:30 America/New_York] is_running_check
+[30-Jun-2014 11:36:30 America/New_York] PHP Notice:  Undefined variable: is_connected in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/views/backend/client.php on line 25
+[30-Jun-2014 11:36:46 America/New_York] is_running_check
+[30-Jun-2014 11:36:46 America/New_York] PHP Notice:  Undefined variable: is_connected in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/views/backend/client.php on line 25
+[30-Jun-2014 11:36:55 America/New_York] is_running_check
+[30-Jun-2014 11:36:55 America/New_York] PHP Notice:  Undefined variable: is_connected in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/views/backend/client.php on line 25
+[30-Jun-2014 11:37:15 America/New_York] is_running_check
+[30-Jun-2014 11:37:15 America/New_York] PHP Notice:  Undefined variable: is_connected in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/views/backend/client.php on line 25
+[30-Jun-2014 11:57:00 America/New_York] Conveyor Start Called
+[30-Jun-2014 11:58:18 America/New_York] Conveyor Start Called
+[30-Jun-2014 11:58:18 America/New_York] asdasd
+[30-Jun-2014 11:58:18 America/New_York] is_running_check
+[30-Jun-2014 11:58:18 America/New_York] PHP Warning:  Cannot modify header information - headers already sent by (output started at /Users/chasenicholl/desktop/MakerBot/replicator2client/app/controllers/conveyor.php:27) in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/core/controller.php on line 399
+[30-Jun-2014 11:58:30 America/New_York] Conveyor Start Called
+[30-Jun-2014 11:58:50 America/New_York] PHP Notice:  Undefined variable: conveyor in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/controllers/replicator2.php on line 16
+[30-Jun-2014 11:58:50 America/New_York] PHP Fatal error:  Call to a member function isRunning() on a non-object in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/controllers/replicator2.php on line 16
+[30-Jun-2014 11:58:55 America/New_York] is_running_check
+[30-Jun-2014 12:23:55 America/New_York] Conveyor Stop Called
+[30-Jun-2014 12:23:55 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 120
+[30-Jun-2014 12:23:55 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 120
+[30-Jun-2014 12:23:55 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 120
+[30-Jun-2014 12:24:01 America/New_York] Conveyor Start Called
+[30-Jun-2014 12:24:01 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 120
+[30-Jun-2014 12:24:01 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 120
+[30-Jun-2014 12:24:01 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 120
+[30-Jun-2014 12:24:12 America/New_York] Conveyor Start Called
+[30-Jun-2014 12:24:41 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 120
+[30-Jun-2014 12:24:41 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 120
+[30-Jun-2014 12:24:41 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 120
+[30-Jun-2014 13:53:20 America/New_York] PHP Parse error:  syntax error, unexpected 'isBotConnected' (T_STRING), expecting variable (T_VARIABLE) in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 99
+[30-Jun-2014 14:06:59 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 129
+[30-Jun-2014 14:06:59 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 129
+[30-Jun-2014 14:06:59 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 129
+[30-Jun-2014 14:06:59 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 129
+[30-Jun-2014 14:06:59 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'socket_connect() failed.
+Reason: () Connection refused' in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php:131
+Stack trace:
+#0 /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php(111): Conveyor->sendRequest('getprinters')
+#1 /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php(101): Conveyor->getConnectedBots()
+#2 /Users/chasenicholl/desktop/MakerBot/replicator2client/app/controllers/replicator2.php(20): Conveyor->isBotConnected()
+#3 /Users/chasenicholl/desktop/MakerBot/replicator2client/app/core/comet.php(118): Replicator2Controller->client()
+#4 /Users/chasenicholl/desktop/MakerBot/replicator2client/www/app.php(5): Comet::run()
+#5 {main}
+  thrown in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 131
+[30-Jun-2014 14:07:01 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 129
+[30-Jun-2014 14:07:01 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 129
+[30-Jun-2014 14:07:01 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 129
+[30-Jun-2014 14:07:01 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 129
+[30-Jun-2014 14:07:01 America/New_York] PHP Fatal error:  Uncaught exception 'Exception' with message 'socket_connect() failed.
+Reason: () Connection refused' in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php:131
+Stack trace:
+#0 /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php(111): Conveyor->sendRequest('getprinters')
+#1 /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php(101): Conveyor->getConnectedBots()
+#2 /Users/chasenicholl/desktop/MakerBot/replicator2client/app/controllers/replicator2.php(20): Conveyor->isBotConnected()
+#3 /Users/chasenicholl/desktop/MakerBot/replicator2client/app/core/comet.php(118): Replicator2Controller->client()
+#4 /Users/chasenicholl/desktop/MakerBot/replicator2client/www/app.php(5): Comet::run()
+#5 {main}
+  thrown in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 131
+[30-Jun-2014 14:08:38 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 135
+[30-Jun-2014 14:08:38 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 135
+[30-Jun-2014 14:08:38 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 135
+[30-Jun-2014 14:08:38 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 135
+[30-Jun-2014 14:08:56 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 135
+[30-Jun-2014 14:08:56 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 135
+[30-Jun-2014 14:08:56 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 135
+[30-Jun-2014 14:08:56 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 135
+[30-Jun-2014 14:34:02 America/New_York] PHP Warning:  chmod(): Operation not permitted in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 162
+[30-Jun-2014 14:34:26 America/New_York] PHP Warning:  chmod(): Operation not permitted in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 162
+[30-Jun-2014 14:35:58 America/New_York] PHP Warning:  chmod(): Operation not permitted in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 162
+[30-Jun-2014 14:36:34 America/New_York] PHP Warning:  chmod(): Operation not permitted in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 162
+[30-Jun-2014 14:36:43 America/New_York] PHP Warning:  chmod(): Operation not permitted in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 162
+[30-Jun-2014 14:37:13 America/New_York] PHP Warning:  chmod(): Operation not permitted in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 162
+[30-Jun-2014 14:37:48 America/New_York] PHP Warning:  chmod(): Operation not permitted in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 162
+[30-Jun-2014 14:42:01 America/New_York] PHP Warning:  chmod(): Operation not permitted in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 162
+[30-Jun-2014 14:43:33 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 14:43:33 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 14:43:33 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 14:43:33 America/New_York] PHP Warning:  chmod(): Operation not permitted in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 163
+[30-Jun-2014 14:43:33 America/New_York] {"id":0,"method":"print","params":{"has_start_end":"true","input_file":"\/tmp\/license_plate_holder.stl","job_metadata":{"extrusion_distance_a_mm":"5359.423802725683","extrusion_mass_a_grams":"16.35220036734266"},"machine_name":{"iserial":"7413736373735191E1F1","pid":45077,"port_type":"UsbPort","vid":9153},"metadata":null,"slicer_settings":{"default_raft_extruder":"0","default_support_extruder":"0","do_auto_raft":"false","do_auto_support":"false","extruder":"0","extruder_temperatures":["230","230"],"heat_platform":"false","infill":"0.10","layer_height":"0.20","materials":["PLA","PLA"],"path":null,"platform_temperature":"110","print_speed":"90","raft":"true","shells":"2","slicer":"MIRACLEGRUE","support":"false","travel_speed":"150"},"thumbnail_dir":""},"jsonrpc":"2.0"}
+[30-Jun-2014 14:47:36 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 14:47:36 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 14:47:36 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 14:47:36 America/New_York] {"id":0,"method":"print","params":{"has_start_end":"true","input_file":"\/tmp\/license_plate_holder.stl","job_metadata":{"extrusion_distance_a_mm":"5359.423802725683","extrusion_mass_a_grams":"16.35220036734266"},"machine_name":{"iserial":"7413736373735191E1F1","pid":45077,"port_type":"UsbPort","vid":9153},"metadata":null,"slicer_settings":{"default_raft_extruder":"0","default_support_extruder":"0","do_auto_raft":"false","do_auto_support":"false","extruder":"0","extruder_temperatures":["230","230"],"heat_platform":"false","infill":"0.10","layer_height":"0.20","materials":["PLA","PLA"],"path":null,"platform_temperature":"110","print_speed":"90","raft":"true","shells":"2","slicer":"MIRACLEGRUE","support":"false","travel_speed":"150"},"thumbnail_dir":""},"jsonrpc":"2.0"}
+[30-Jun-2014 14:47:40 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 14:47:40 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 14:47:40 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 14:47:40 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 14:47:42 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 14:47:42 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 14:47:42 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 14:47:42 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 14:47:43 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 14:47:43 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 14:47:43 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 14:47:43 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 14:47:52 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 14:47:52 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 14:47:52 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 14:47:52 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 14:47:56 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 14:47:56 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 14:47:56 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 14:47:56 America/New_York] {"id":0,"method":"print","params":{"has_start_end":"true","input_file":"\/tmp\/license_plate_holderv2.stl","job_metadata":{"extrusion_distance_a_mm":"5359.423802725683","extrusion_mass_a_grams":"16.35220036734266"},"machine_name":{"iserial":"7413736373735191E1F1","pid":45077,"port_type":"UsbPort","vid":9153},"metadata":null,"slicer_settings":{"default_raft_extruder":"0","default_support_extruder":"0","do_auto_raft":"false","do_auto_support":"false","extruder":"0","extruder_temperatures":["230","230"],"heat_platform":"false","infill":"0.10","layer_height":"0.20","materials":["PLA","PLA"],"path":null,"platform_temperature":"110","print_speed":"90","raft":"true","shells":"2","slicer":"MIRACLEGRUE","support":"false","travel_speed":"150"},"thumbnail_dir":""},"jsonrpc":"2.0"}
+[30-Jun-2014 14:50:42 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 14:50:42 America/New_York] PHP Notice:  Undefined variable: response in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 154
+[30-Jun-2014 14:51:15 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 14:51:15 America/New_York] PHP Notice:  Undefined variable: response in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 154
+[30-Jun-2014 14:51:30 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 14:51:30 America/New_York] PHP Notice:  Undefined variable: response in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 154
+[30-Jun-2014 14:51:30 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 14:51:30 America/New_York] PHP Notice:  Undefined variable: response in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 154
+[30-Jun-2014 14:51:30 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 14:51:30 America/New_York] PHP Notice:  Undefined variable: response in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 154
+[30-Jun-2014 14:51:30 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 14:51:30 America/New_York] PHP Notice:  Undefined variable: response in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 154
+[30-Jun-2014 14:51:30 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 116
+[30-Jun-2014 14:51:35 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 14:51:35 America/New_York] PHP Notice:  Undefined variable: response in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 154
+[30-Jun-2014 14:51:35 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 14:51:35 America/New_York] PHP Notice:  Undefined variable: response in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 154
+[30-Jun-2014 14:51:35 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 14:51:35 America/New_York] PHP Notice:  Undefined variable: response in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 154
+[30-Jun-2014 14:51:35 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 14:51:35 America/New_York] PHP Notice:  Undefined variable: response in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 154
+[30-Jun-2014 14:51:35 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 116
+[30-Jun-2014 14:51:38 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 14:51:38 America/New_York] PHP Notice:  Undefined variable: response in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 154
+[30-Jun-2014 14:51:38 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 14:51:38 America/New_York] PHP Notice:  Undefined variable: response in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 154
+[30-Jun-2014 14:51:38 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 14:51:38 America/New_York] PHP Notice:  Undefined variable: response in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 154
+[30-Jun-2014 14:51:38 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 14:51:38 America/New_York] PHP Notice:  Undefined variable: response in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 154
+[30-Jun-2014 14:51:38 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 116
+[30-Jun-2014 14:51:42 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 14:51:42 America/New_York] PHP Notice:  Undefined variable: response in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 154
+[30-Jun-2014 14:51:42 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 14:51:42 America/New_York] PHP Notice:  Undefined variable: response in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 154
+[30-Jun-2014 14:51:42 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 14:51:42 America/New_York] PHP Notice:  Undefined variable: response in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 154
+[30-Jun-2014 14:51:42 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 14:51:42 America/New_York] PHP Notice:  Undefined variable: response in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 154
+[30-Jun-2014 14:51:42 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 116
+[30-Jun-2014 14:52:02 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 135
+[30-Jun-2014 14:52:02 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 135
+[30-Jun-2014 14:52:02 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 135
+[30-Jun-2014 14:52:02 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 135
+[30-Jun-2014 14:52:06 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 14:52:06 America/New_York] PHP Notice:  Undefined variable: response in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 154
+[30-Jun-2014 14:52:06 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 14:52:06 America/New_York] PHP Notice:  Undefined variable: response in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 154
+[30-Jun-2014 14:52:06 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 14:52:06 America/New_York] PHP Notice:  Undefined variable: response in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 154
+[30-Jun-2014 14:52:06 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 14:52:06 America/New_York] PHP Notice:  Undefined variable: response in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 154
+[30-Jun-2014 14:52:06 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 116
+[30-Jun-2014 14:52:09 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 14:52:09 America/New_York] PHP Notice:  Undefined variable: response in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 154
+[30-Jun-2014 14:52:09 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 14:52:09 America/New_York] PHP Notice:  Undefined variable: response in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 154
+[30-Jun-2014 14:52:09 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 14:52:09 America/New_York] PHP Notice:  Undefined variable: response in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 154
+[30-Jun-2014 14:52:09 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 14:52:09 America/New_York] PHP Notice:  Undefined variable: response in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 154
+[30-Jun-2014 14:52:09 America/New_York] PHP Warning:  Invalid argument supplied for foreach() in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 116
+[30-Jun-2014 14:52:29 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 14:52:29 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 14:52:29 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 14:52:29 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 14:52:46 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 14:52:46 America/New_York] PHP Notice:  Undefined variable: response in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 154
+[30-Jun-2014 14:54:02 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 14:54:02 America/New_York] PHP Notice:  Undefined variable: response in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 154
+[30-Jun-2014 14:54:04 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 14:54:04 America/New_York] PHP Notice:  Undefined variable: response in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 154
+[30-Jun-2014 14:54:23 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 14:54:23 America/New_York] PHP Notice:  Undefined variable: response in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 154
+[30-Jun-2014 14:54:28 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 14:54:28 America/New_York] PHP Notice:  Undefined variable: response in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 154
+[30-Jun-2014 14:55:36 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 14:55:36 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 14:55:36 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 14:55:36 America/New_York] {"id":0,"method":"print","params":{"has_start_end":"true","input_file":"\/tmp\/license_plate_holderv2.stl","job_metadata":{"extrusion_distance_a_mm":"5359.423802725683","extrusion_mass_a_grams":"16.35220036734266"},"machine_name":{"iserial":"7413736373735191E1F1","pid":45077,"port_type":"UsbPort","vid":9153},"metadata":null,"slicer_settings":{"default_raft_extruder":"0","default_support_extruder":"0","do_auto_raft":"false","do_auto_support":"false","extruder":"0","extruder_temperatures":["230","230"],"heat_platform":"false","infill":"0.10","layer_height":"0.20","materials":["PLA","PLA"],"path":null,"platform_temperature":"110","print_speed":"90","raft":"true","shells":"2","slicer":"MIRACLEGRUE","support":"false","travel_speed":"150"},"thumbnail_dir":""},"jsonrpc":"2.0"}
+[30-Jun-2014 14:58:30 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 14:58:30 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 14:58:30 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 14:58:30 America/New_York] {"id":0,"method":"print","params":{"has_start_end":"true","input_file":"/tmp/license_plate_holderv2.stl","job_metadata":{"extrusion_distance_a_mm":"5359.423802725683","extrusion_mass_a_grams":"16.35220036734266"},"machine_name":{"iserial":"7413736373735191E1F1","pid":45077,"port_type":"UsbPort","vid":9153},"metadata":null,"slicer_settings":{"default_raft_extruder":"0","default_support_extruder":"0","do_auto_raft":"false","do_auto_support":"false","extruder":"0","extruder_temperatures":["230","230"],"heat_platform":"false","infill":"0.10","layer_height":"0.20","materials":["PLA","PLA"],"path":null,"platform_temperature":"110","print_speed":"90","raft":"true","shells":"2","slicer":"MIRACLEGRUE","support":"false","travel_speed":"150"},"thumbnail_dir":""},"jsonrpc":"2.0"}
+[30-Jun-2014 15:00:46 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:00:46 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:00:46 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:00:46 America/New_York] {"id":0,"method":"print","params":{"has_start_end":true,"input_file":"/tmp/license_plate_holderv2.stl","job_metadata":{"extrusion_distance_a_mm":"5359.423802725683","extrusion_mass_a_grams":"16.35220036734266"},"machine_name":{"iserial":"7413736373735191E1F1","pid":45077,"port_type":"UsbPort","vid":9153},"metadata":null,"slicer_settings":{"default_raft_extruder":0,"default_support_extruder":0,"do_auto_raft":false,"do_auto_support":false,"extruder":0,"extruder_temperatures":[230,230],"heat_platform":false,"infill":0.1,"layer_height":0.2,"materials":["PLA","PLA"],"path":null,"platform_temperature":110,"print_speed":90,"raft":true,"shells":2,"slicer":"MIRACLEGRUE","support":false,"travel_speed":150},"thumbnail_dir":""},"jsonrpc":"2.0"}
+[30-Jun-2014 15:01:06 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:01:06 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:01:06 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:01:06 America/New_York] {"id":0,"method":"print","params":{"has_start_end":true,"input_file":"/tmp/license_plate_holderv2.stl","job_metadata":{"extrusion_distance_a_mm":"5359.423802725683","extrusion_mass_a_grams":"16.35220036734266"},"machine_name":{"iserial":"7413736373735191E1F1","pid":45077,"port_type":"UsbPort","vid":9153},"metadata":null,"slicer_settings":{"default_raft_extruder":0,"default_support_extruder":0,"do_auto_raft":false,"do_auto_support":false,"extruder":0,"extruder_temperatures":[230,230],"heat_platform":false,"infill":"0.10","layer_height":"0.20","materials":["PLA","PLA"],"path":null,"platform_temperature":110,"print_speed":90,"raft":true,"shells":2,"slicer":"MIRACLEGRUE","support":false,"travel_speed":150},"thumbnail_dir":""},"jsonrpc":"2.0"}
+[30-Jun-2014 15:04:32 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:04:32 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:04:32 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:04:32 America/New_York] {"id":0,"method":"print","params":{"has_start_end":true,"input_file":"/tmp/license_plate_holderv2.stl","job_metadata":{"extrusion_distance_a_mm":"5359.423802725683","extrusion_mass_a_grams":"16.35220036734266"},"machine_name":"23C1:B015:7413736373735191E1F1","metadata":null,"slicer_settings":{"default_raft_extruder":0,"default_support_extruder":0,"do_auto_raft":false,"do_auto_support":false,"extruder":0,"extruder_temperatures":[230,230],"heat_platform":false,"infill":"0.10","layer_height":"0.20","materials":["PLA","PLA"],"path":null,"platform_temperature":110,"print_speed":90,"raft":true,"shells":2,"slicer":"MIRACLEGRUE","support":false,"travel_speed":150},"thumbnail_dir":""},"jsonrpc":"2.0"}
+[30-Jun-2014 15:04:34 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:04:34 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:04:34 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:04:34 America/New_York] {"id":0,"method":"print","params":{"has_start_end":true,"input_file":"/tmp/license_plate_holderv2.stl","job_metadata":{"extrusion_distance_a_mm":"5359.423802725683","extrusion_mass_a_grams":"16.35220036734266"},"machine_name":"23C1:B015:7413736373735191E1F1","metadata":null,"slicer_settings":{"default_raft_extruder":0,"default_support_extruder":0,"do_auto_raft":false,"do_auto_support":false,"extruder":0,"extruder_temperatures":[230,230],"heat_platform":false,"infill":"0.10","layer_height":"0.20","materials":["PLA","PLA"],"path":null,"platform_temperature":110,"print_speed":90,"raft":true,"shells":2,"slicer":"MIRACLEGRUE","support":false,"travel_speed":150},"thumbnail_dir":""},"jsonrpc":"2.0"}
+[30-Jun-2014 15:04:34 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:04:34 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:04:34 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:04:34 America/New_York] {"id":0,"method":"print","params":{"has_start_end":true,"input_file":"/tmp/license_plate_holderv2.stl","job_metadata":{"extrusion_distance_a_mm":"5359.423802725683","extrusion_mass_a_grams":"16.35220036734266"},"machine_name":"23C1:B015:7413736373735191E1F1","metadata":null,"slicer_settings":{"default_raft_extruder":0,"default_support_extruder":0,"do_auto_raft":false,"do_auto_support":false,"extruder":0,"extruder_temperatures":[230,230],"heat_platform":false,"infill":"0.10","layer_height":"0.20","materials":["PLA","PLA"],"path":null,"platform_temperature":110,"print_speed":90,"raft":true,"shells":2,"slicer":"MIRACLEGRUE","support":false,"travel_speed":150},"thumbnail_dir":""},"jsonrpc":"2.0"}
+[30-Jun-2014 15:04:54 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:04:54 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:04:54 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:04:54 America/New_York] {"id":0,"method":"print","params":{"has_start_end":true,"input_file":"/tmp/license_plate_holderv2.stl","job_metadata":{"extrusion_distance_a_mm":"5359.423802725683","extrusion_mass_a_grams":"16.35220036734266"},"machine_name":"23C1:B015:7413736373735191E1F1","metadata":null,"slicer_settings":{"default_raft_extruder":0,"default_support_extruder":0,"do_auto_raft":false,"do_auto_support":false,"extruder":0,"extruder_temperatures":["230","230"],"heat_platform":false,"infill":"0.10","layer_height":"0.20","materials":["PLA","PLA"],"path":null,"platform_temperature":110,"print_speed":90,"raft":true,"shells":2,"slicer":"MIRACLEGRUE","support":false,"travel_speed":150},"thumbnail_dir":""},"jsonrpc":"2.0"}
+[30-Jun-2014 15:06:22 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:06:22 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:06:22 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:06:22 America/New_York] {"id":0,"method":"print","params":{"has_start_end":true,"input_file":"/tmp/license_plate_holderv2.stl","job_metadata":{"extrusion_distance_a_mm":5359.42380273,"extrusion_mass_a_grams":16.3522003673},"machine_name":"23C1:B015:7413736373735191E1F1","metadata":null,"slicer_settings":{"default_raft_extruder":0,"default_support_extruder":0,"do_auto_raft":false,"do_auto_support":false,"extruder":0,"extruder_temperatures":[230,230],"heat_platform":false,"infill":0.1,"layer_height":0.2,"materials":["PLA","PLA"],"path":null,"platform_temperature":110,"print_speed":90,"raft":true,"shells":2,"slicer":"MIRACLEGRUE","support":false,"travel_speed":150},"thumbnail_dir":""},"jsonrpc":"2.0"}
+[30-Jun-2014 15:08:07 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:08:07 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:08:07 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:09:05 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:09:05 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:09:05 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:09:54 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:09:54 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:09:54 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:10:42 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:10:42 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:10:42 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:10:42 America/New_York] {"id":0,"method":"print","params":{"has_start_end":true,"input_file":"/tmp/license_plate_holderv2.stl","job_metadata":{"extrusion_distance_a_mm":"5359.423802725683","extrusion_mass_a_grams":"16.35220036734266"},"machine_name":"23C1:B015:7413736373735191E1F1","metadata":null,"slicer_settings":{"default_raft_extruder":0,"default_support_extruder":0,"do_auto_raft":false,"do_auto_support":false,"extruder":0,"extruder_temperatures":[230,230],"heat_platform":false,"infill":0.1,"layer_height":0.2,"materials":["PLA","PLA"],"path":null,"platform_temperature":110,"print_speed":90,"raft":true,"shells":2,"slicer":"MIRACLEGRUE","support":false,"travel_speed":150},"thumbnail_dir":""},"jsonrpc":"2.0"}
+[30-Jun-2014 15:11:12 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:11:12 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:11:12 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:11:12 America/New_York] {"id":0,"method":"print","params":{"has_start_end":true,"input_file":"/tmp/license_plate_holderv2.stl","job_metadata":{"extrusion_distance_a_mm":5359.42380273,"extrusion_mass_a_grams":16.3522003673},"machine_name":"23C1:B015:7413736373735191E1F1","metadata":null,"slicer_settings":{"default_raft_extruder":0,"default_support_extruder":0,"do_auto_raft":false,"do_auto_support":false,"extruder":0,"extruder_temperatures":[230,230],"heat_platform":false,"infill":0.1,"layer_height":0.2,"materials":["PLA","PLA"],"path":null,"platform_temperature":110,"print_speed":90,"raft":true,"shells":2,"slicer":"MIRACLEGRUE","support":false,"travel_speed":150},"thumbnail_dir":""},"jsonrpc":"2.0"}
+[30-Jun-2014 15:11:58 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:11:58 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:11:58 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:11:58 America/New_York] {"id":0,"method":"print","params":{"has_start_end":true,"input_file":"/tmp/license_plate_holderv2.stl","job_metadata":{"extrusion_distance_a_mm":"5359.423802725683","extrusion_mass_a_grams":"16.35220036734266"},"machine_name":"23C1:B015:7413736373735191E1F1","metadata":null,"slicer_settings":{"default_raft_extruder":0,"default_support_extruder":0,"do_auto_raft":false,"do_auto_support":false,"extruder":0,"extruder_temperatures":[230,230],"heat_platform":false,"infill":0.1,"layer_height":0.2,"materials":["PLA","PLA"],"path":null,"platform_temperature":110,"print_speed":90,"raft":true,"shells":2,"slicer":"MIRACLEGRUE","support":false,"travel_speed":150},"thumbnail_dir":""},"jsonrpc":"2.0"}
+[30-Jun-2014 15:18:13 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:18:13 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:18:13 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:18:13 America/New_York] {"id":0,"method":"print","params":{"has_start_end":true,"input_file":"/tmp/license_plate_holderv2.stl","job_metadata":{"extrusion_distance_a_mm":5359.42380273,"extrusion_mass_a_grams":16.3522003673},"machine_name":"23C1:B015:7413736373735191E1F1","metadata":null,"slicer_settings":{"default_raft_extruder":0,"default_support_extruder":0,"do_auto_raft":false,"do_auto_support":false,"extruder":"0","extruder_temperatures":[230,230],"heat_platform":false,"infill":0.1,"layer_height":0.2,"materials":["PLA","PLA"],"path":null,"platform_temperature":110,"print_speed":90,"raft":true,"shells":2,"slicer":"MIRACLEGRUE","support":false,"travel_speed":150},"thumbnail_dir":""},"jsonrpc":"2.0"}
+[30-Jun-2014 15:30:53 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:30:53 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 15:30:53 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 15:30:53 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:30:58 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:30:58 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 15:30:58 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 15:30:58 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:31:01 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 135
+[30-Jun-2014 15:31:01 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 135
+[30-Jun-2014 15:31:01 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 135
+[30-Jun-2014 15:31:01 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 135
+[30-Jun-2014 15:31:10 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:31:10 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 15:31:10 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 15:31:10 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:31:41 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:31:41 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 15:31:41 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 15:31:41 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:31:56 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:31:56 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:31:56 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:31:56 America/New_York] {"id":0,"method":"print","params":{"has_start_end":true,"input_file":"/tmp/license_plate_holderv2.stl","job_metadata":{"extrusion_distance_a_mm":5359.42380273,"extrusion_mass_a_grams":16.3522003673},"machine_name":{"iserial":"7413736373735191E1F1","pid":45077,"port_type":"UsbPort","vid":9153},"metadata":null,"slicer_settings":{"default_raft_extruder":0,"default_support_extruder":0,"do_auto_raft":false,"do_auto_support":false,"extruder":"0","extruder_temperatures":[230,230],"heat_platform":false,"infill":0.1,"layer_height":0.2,"materials":["PLA","PLA"],"path":null,"platform_temperature":110,"print_speed":90,"raft":true,"shells":2,"slicer":"MIRACLEGRUE","support":false,"travel_speed":150},"thumbnail_dir":""},"jsonrpc":"2.0"}
+[30-Jun-2014 15:31:56 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:31:56 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 15:31:56 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 15:31:56 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:32:39 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:32:39 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 15:32:39 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 15:32:39 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:33:24 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:33:24 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 15:33:24 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 15:33:24 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:33:26 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:33:26 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 15:33:26 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 15:33:26 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:35:08 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:35:08 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 15:35:08 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 15:35:08 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:35:35 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:35:35 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 15:35:35 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 15:35:35 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:36:04 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:36:04 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 15:36:04 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 15:36:04 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:36:39 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:36:39 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 15:36:39 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 15:36:39 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:36:48 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:36:48 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 15:36:48 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 15:36:48 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:37:30 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:37:30 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 15:37:30 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 15:37:30 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:42:40 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:42:40 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 15:42:40 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 15:42:40 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:42:58 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:42:58 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 15:42:58 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 15:42:58 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:43:05 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:43:05 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 15:43:05 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 15:43:05 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:43:43 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:43:43 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 15:43:43 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 15:43:43 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:48:05 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:48:05 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 15:48:05 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 15:48:05 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:48:05 America/New_York] PHP Notice:  Array to string conversion in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/views/backend/client.php on line 23
+[30-Jun-2014 15:49:03 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:49:03 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 15:49:03 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 15:49:03 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:50:54 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:50:54 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 15:50:54 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 15:50:54 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:51:08 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:51:08 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 15:51:08 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 15:51:08 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:51:47 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:51:47 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 15:51:48 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 15:51:48 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:51:55 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:51:55 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 15:51:55 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 15:51:55 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:51:59 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:51:59 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 15:51:59 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 15:51:59 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:52:10 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:52:10 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 15:52:10 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 15:52:10 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:52:34 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:52:34 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 15:52:34 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 15:52:34 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:54:55 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:54:55 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 15:54:55 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 15:54:55 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:54:57 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:54:57 America/New_York] {"id":0,"method":"home","params":{"machine_name":{"iserial":"7413736373735191E1F1","pid":45077,"port_type":"UsbPort","vid":9153}},"jsonrpc":"2.0"}
+[30-Jun-2014 15:54:59 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:54:59 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 15:54:59 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 15:54:59 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:57:57 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:57:57 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 15:57:57 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 15:57:57 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:57:59 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:57:59 America/New_York] {"id":0,"method":"home","params":{"machine_name":{"iserial":"7413736373735191E1F1","pid":45077,"port_type":"UsbPort","vid":9153}},"jsonrpc":"2.0"}
+[30-Jun-2014 15:58:01 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:58:01 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 15:58:02 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 15:58:02 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:59:13 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 15:59:13 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 15:59:13 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 15:59:13 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 16:00:14 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 16:00:14 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 16:00:14 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 16:00:14 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 16:00:15 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 16:00:15 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 16:00:15 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 16:00:15 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 16:00:17 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 16:00:17 America/New_York] {"id":0,"method":"tom_calibration","params":{"machine_name":{"iserial":"7413736373735191E1F1","pid":45077,"port_type":"UsbPort","vid":9153}},"jsonrpc":"2.0"}
+[30-Jun-2014 16:00:19 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 16:00:19 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 16:00:19 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 16:00:19 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 16:01:41 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 16:01:41 America/New_York] {"id":0,"method":"home","params":{"machine_name":{"iserial":"7413736373735191E1F1","pid":45077,"port_type":"UsbPort","vid":9153}},"jsonrpc":"2.0"}
+[30-Jun-2014 16:01:43 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 16:01:43 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 16:01:43 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 16:01:43 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 16:02:33 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 16:02:33 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 16:02:33 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 16:02:33 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 16:02:34 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 16:02:34 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 16:02:34 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 16:02:34 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 16:02:36 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 16:02:36 America/New_York] {"id":0,"method":"home","params":{"machine_name":{"iserial":"7413736373735191E1F1","pid":45077,"port_type":"UsbPort","vid":9153}},"jsonrpc":"2.0"}
+[30-Jun-2014 16:02:38 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 16:02:38 America/New_York] {"id":0,"method":"home","params":{"machine_name":{"iserial":"7413736373735191E1F1","pid":45077,"port_type":"UsbPort","vid":9153}},"jsonrpc":"2.0"}
+[30-Jun-2014 16:02:40 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 16:02:40 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 16:02:40 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 16:02:40 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 16:05:55 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 16:05:55 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 16:05:55 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 16:05:55 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 16:06:00 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 159
+[30-Jun-2014 16:06:00 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 159
+[30-Jun-2014 16:06:00 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 159
+[30-Jun-2014 16:06:00 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 159
+[30-Jun-2014 17:00:17 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 159
+[30-Jun-2014 17:00:17 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 159
+[30-Jun-2014 17:00:17 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 159
+[30-Jun-2014 17:00:17 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 159
+[30-Jun-2014 17:00:29 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 159
+[30-Jun-2014 17:00:29 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 159
+[30-Jun-2014 17:00:29 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 159
+[30-Jun-2014 17:00:29 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 159
+[30-Jun-2014 17:00:32 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 17:00:32 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 17:00:32 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 17:00:32 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 17:02:26 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 159
+[30-Jun-2014 17:02:26 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 159
+[30-Jun-2014 17:02:26 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 159
+[30-Jun-2014 17:02:26 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 159
+[30-Jun-2014 17:02:32 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 17:02:32 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 17:02:32 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 17:02:32 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 17:03:20 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 17:03:20 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 17:03:20 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 17:03:20 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 17:06:27 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 17:06:27 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 17:06:27 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 17:06:27 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 17:06:29 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 17:06:29 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 17:06:29 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 17:06:29 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 17:06:40 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 17:06:40 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 17:06:40 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 17:06:40 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 17:06:49 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 17:06:49 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 17:06:49 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 17:06:49 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 17:06:59 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 17:06:59 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 17:06:59 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 17:06:59 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 17:07:04 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 17:07:04 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 17:07:04 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 17:07:04 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 17:07:06 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 17:07:06 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 17:07:06 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 17:07:06 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 17:07:53 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 17:07:53 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 17:07:53 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 17:07:53 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 17:07:58 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 169
+[30-Jun-2014 17:07:58 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 169
+[30-Jun-2014 17:07:58 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 169
+[30-Jun-2014 17:07:58 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 169
+[30-Jun-2014 17:08:09 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 17:08:09 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 17:08:09 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 17:08:09 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 17:08:29 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 17:08:29 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 17:08:29 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 17:08:29 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 17:13:36 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 169
+[30-Jun-2014 17:13:36 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 169
+[30-Jun-2014 17:13:36 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 169
+[30-Jun-2014 17:13:36 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 169
+[30-Jun-2014 17:41:36 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 169
+[30-Jun-2014 17:41:36 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 169
+[30-Jun-2014 17:41:36 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 169
+[30-Jun-2014 17:41:36 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 169
+[30-Jun-2014 17:41:41 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 169
+[30-Jun-2014 17:41:41 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 169
+[30-Jun-2014 17:41:41 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 169
+[30-Jun-2014 17:41:41 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 169
+[30-Jun-2014 17:41:51 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 169
+[30-Jun-2014 17:41:51 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 169
+[30-Jun-2014 17:41:51 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 169
+[30-Jun-2014 17:41:51 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 169
+[30-Jun-2014 17:41:57 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 169
+[30-Jun-2014 17:41:57 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 169
+[30-Jun-2014 17:41:57 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 169
+[30-Jun-2014 17:41:57 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 169
+[30-Jun-2014 17:44:50 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 169
+[30-Jun-2014 17:44:50 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 169
+[30-Jun-2014 17:44:50 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 169
+[30-Jun-2014 17:44:50 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 169
+[30-Jun-2014 17:44:55 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 169
+[30-Jun-2014 17:44:55 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 169
+[30-Jun-2014 17:44:55 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 169
+[30-Jun-2014 17:44:55 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 169
+[30-Jun-2014 17:45:02 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 17:45:02 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 17:45:02 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 17:45:02 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 17:45:16 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 169
+[30-Jun-2014 17:45:16 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 169
+[30-Jun-2014 17:45:16 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 169
+[30-Jun-2014 17:45:16 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 169
+[30-Jun-2014 17:45:24 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 17:45:24 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 17:45:24 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 17:45:24 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 17:45:42 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 17:45:42 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 17:45:42 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 17:45:42 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 18:03:52 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 18:03:52 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 18:03:52 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 18:03:52 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 22:14:06 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 22:14:06 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 22:14:06 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 22:14:06 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 22:18:10 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 169
+[30-Jun-2014 22:18:10 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 169
+[30-Jun-2014 22:18:10 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 169
+[30-Jun-2014 22:18:10 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 169
+[30-Jun-2014 22:18:11 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 169
+[30-Jun-2014 22:18:11 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 169
+[30-Jun-2014 22:18:11 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 169
+[30-Jun-2014 22:18:11 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 169
+[30-Jun-2014 22:18:17 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 22:18:17 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 22:18:17 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 22:18:17 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 22:20:01 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 22:20:01 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 22:20:01 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 22:20:01 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 22:20:53 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 22:20:53 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 22:20:53 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 22:20:53 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 23:07:34 America/New_York] {"id":0,"method":"dir","params":[],"jsonrpc":"2.0"}
+[30-Jun-2014 23:07:34 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 23:07:34 America/New_York] {"id":0,"method":"hello","params":{"username":"chasenicholl"},"jsonrpc":"2.0"}
+[30-Jun-2014 23:07:34 America/New_York] {"id":0,"method":"getprinters","params":[],"jsonrpc":"2.0"}
+[02-Jul-2014 14:07:47 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 169
+[02-Jul-2014 14:07:47 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 169
+[02-Jul-2014 14:07:47 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 169
+[02-Jul-2014 14:07:47 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 169
+[02-Jul-2014 14:07:55 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 169
+[02-Jul-2014 14:07:55 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 169
+[02-Jul-2014 14:07:55 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 169
+[02-Jul-2014 14:07:55 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 169
+[02-Jul-2014 14:07:59 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 169
+[02-Jul-2014 14:07:59 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 169
+[02-Jul-2014 14:07:59 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 169
+[02-Jul-2014 14:07:59 America/New_York] PHP Warning:  socket_connect(): unable to connect [61]: Connection refused in /Users/chasenicholl/desktop/MakerBot/replicator2client/app/lib/conveyor.php on line 169
