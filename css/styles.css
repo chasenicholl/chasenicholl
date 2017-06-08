@@ -1,7 +1,7 @@
 @font-face {
   font-family: 'Apercu';
   font-style: normal;
-  src: local('Apercu Mono'), local('Apercu-Mono'), url(fonts/apercu-mono.woff) format('woff');
+  src: local('Apercu Mono'), local('Apercu-Mono'), url(/fonts/apercu-mono.woff) format('woff');
 }
 
 html, body {
