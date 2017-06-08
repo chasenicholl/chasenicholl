@@ -1,8 +1,0 @@
-############################################
-# APP ROUTING
-####
-
-RewriteEngine On
-
-# Home Page
-RewriteRule ^$ app.php?controller=pages&view=home&type=frontend [NC,L,QSA]
