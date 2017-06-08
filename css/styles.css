@@ -1,0 +1,27 @@
+@font-face {
+  font-family: 'Apercu';
+  font-style: normal;
+  src: local('Apercu Mono'), local('Apercu-Mono'), url(fonts/apercu-mono.woff) format('woff');
+}
+
+html, body {
+    width: 100%;
+    height: 100%;
+    margin: 0px;
+    background-color: #1D1C24;
+    font-family: 'Apercu';
+}
+.outer {
+    display: table;
+    width: 100%;
+    height: 100%;
+}
+.inner {
+    display: table-cell;
+    vertical-align: middle;
+    text-align: center;
+    color: #FFF;
+}
+.inner .name {
+    font-size: 72px;
+}
