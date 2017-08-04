@@ -11,6 +11,9 @@ html, body {
     background-color: #1D1C24;
     font-family: 'Apercu';
 }
+a {
+    text-decoration: none;
+}
 .outer {
     display: table;
     width: 100%;
@@ -24,4 +27,17 @@ html, body {
 }
 .inner .name {
     font-size: 72px;
+    display: inline-block;
+}
+.inner .iam {
+    font-size: 14px;
+    display: inline-block;
+    font-style: italic;
+}
+div {
+    padding: 10px 0px;
+}
+
+img {
+    padding: 0px 10px;
 }
