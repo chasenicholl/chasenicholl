@@ -13,6 +13,10 @@ html, body {
 }
 a {
     text-decoration: none;
+    color: #FFF;
+}
+a:hover {
+    color: orange;
 }
 .outer {
     display: table;
@@ -33,6 +37,9 @@ a {
     font-size: 14px;
     display: inline-block;
     font-style: italic;
+}
+.inner .hello {
+    font-size: 12px;
 }
 div {
     padding: 10px 0px;
