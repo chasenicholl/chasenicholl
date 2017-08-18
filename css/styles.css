@@ -6,13 +6,17 @@
 
 .planet {
     -webkit-animation-name: rotate;
-    -webkit-animation-duration:300s;
+    -webkit-animation-duration:600s;
     -webkit-animation-iteration-count:infinite;
     -webkit-animation-timing-function:linear;
     -moz-animation-name: rotate;
-    -moz-animation-duration:300s;
+    -moz-animation-duration:600s;
     -moz-animation-iteration-count:infinite;
     -moz-animation-timing-function:linear;
+    animation-name: rotate;
+    animation-duration:600s;
+    animation-iteration-count:infinite;
+    animation-timing-function:linear;
     background-image: url('../images/jupiter-bg-01.jpg');
     background-size: 100%;
     background-position: center center;
@@ -41,13 +45,15 @@ html, body {
     margin: 0px;
     background-color: #1D1C24;
     font-family: 'Apercu';
+    overflow: hidden;
 }
 a {
     text-decoration: none;
     color: #FFF;
 }
 a:hover {
-    color: orange;
+    color: #1DF660;
+    // color: #32E268;
 }
 .outer {
     display: table;
@@ -73,6 +79,45 @@ a:hover {
 }
 .inner .hello {
     font-size: 12px;
+}
+.inner .icon {
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+    margin: 10px;
+    background-size: 30px 30px;
+    background-position: center center;
+    background-repeat: no-repeat;
+}
+.inner .github {
+    background-image: url('../images/github.png');
+}
+.inner .github:hover {
+    background-image: url('../images/github-over.png');
+}
+.inner .linkedin {
+    background-image: url('../images/linkedin.png');
+}
+.inner .linkedin:hover {
+    background-image: url('../images/linkedin-over.png');
+}
+.inner .angellist {
+    background-image: url('../images/angelco.png');
+}
+.inner .angellist:hover {
+    background-image: url('../images/angelco-over.png');
+}
+.inner .spotify {
+    background-image: url('../images/spotify.png');
+}
+.inner .spotify:hover {
+    background-image: url('../images/spotify-over.png');
+}
+.inner .itunes {
+    background-image: url('../images/itunes.png');
+}
+.inner .itunes:hover {
+    background-image: url('../images/itunes-over.png');
 }
 div {
     padding: 10px 0px;
