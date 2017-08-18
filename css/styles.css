@@ -15,6 +15,7 @@
     -moz-animation-timing-function:linear;
     background-image: url('../images/jupiter-bg-01.jpg');
     background-size: 100%;
+    background-position: center center;
     position: absolute;
     z-index: 0;
     width: 200%;
