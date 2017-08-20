@@ -85,39 +85,39 @@ a:hover {
     width: 30px;
     height: 30px;
     margin: 10px;
-    background-size: 30px 30px;
-    background-position: center center;
+    background-size: 300px 30px;
     background-repeat: no-repeat;
+    background-image: url('../images/sprite.png');
 }
 .inner .github {
-    background-image: url('../images/github.png');
+    background-position: -60px 0px;
 }
 .inner .github:hover {
-    background-image: url('../images/github-over.png');
+    background-position: -90px 0px;
 }
 .inner .linkedin {
-    background-image: url('../images/linkedin.png');
+    background-position: -180px 0px;
 }
 .inner .linkedin:hover {
-    background-image: url('../images/linkedin-over.png');
+    background-position: -210px 0px;
 }
 .inner .angellist {
-    background-image: url('../images/angelco.png');
+    background-position: 0px 0px;
 }
 .inner .angellist:hover {
-    background-image: url('../images/angelco-over.png');
+    background-position: -30px 0px;
 }
 .inner .spotify {
-    background-image: url('../images/spotify.png');
+    background-position: -240px 0px;
 }
 .inner .spotify:hover {
-    background-image: url('../images/spotify-over.png');
+    background-position: -270px 0px;
 }
 .inner .itunes {
-    background-image: url('../images/itunes.png');
+    background-position: -120px 0px;
 }
 .inner .itunes:hover {
-    background-image: url('../images/itunes-over.png');
+    background-position: -150px 0px;
 }
 div {
     padding: 10px 0px;
