@@ -148,3 +148,17 @@ div {
 img {
     padding: 0px 10px;
 }
+
+@media all and (min-width:0px) and (max-width: 600px) {
+  .pluto {
+    width: 400%;
+    height: 400%;
+    left: -150%;
+    top: -150%;
+  }
+  button {
+    width: 340px;
+    padding: 20px;
+    border: 0px;
+  }
+}
