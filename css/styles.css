@@ -29,6 +29,27 @@
     opacity: 0.75;
 }
 
+.pluto {
+    background-image: url('../images/pluto.jpg');
+}
+
+input {
+    width: 300px;
+    padding: 20px;
+    border: 0px;
+}
+
+button {
+    width: 150px;
+    padding: 20px;
+    border: 0px;
+    background-color: #1D1C24;
+    color: #FFF;
+    font-size: 12px;
+    font-weight: 300;
+    cursor: pointer;
+}
+
 @-webkit-keyframes rotate {
   from {-webkit-transform:rotate(0deg);}
   to {  -webkit-transform:rotate(360deg);}
