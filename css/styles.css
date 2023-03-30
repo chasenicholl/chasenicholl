@@ -18,7 +18,7 @@
     animation-iteration-count:infinite;
     animation-timing-function:linear;
     transform: rotateZ(360deg);
-    background-image: url('../images/jupiter-bg-01.jpg');
+    background-image: url('../images/jwcc-background.png');
     background-size: 100%;
     background-position: center center;
     position: absolute;
